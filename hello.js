@@ -1,2 +1,2 @@
-var message = "hello!";
+var message = "Hello!";
 alert(message);
